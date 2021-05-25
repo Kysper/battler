@@ -1,0 +1,23 @@
+html body {
+    position: relative;
+    padding:20px;
+}
+
+body{
+    display:block;
+    position:relative;
+    width:50%;
+    margin:0 auto;
+}
+
+.radio-container {
+    display:flex;
+    flex-direction:row;
+    flex-flow:wrap;
+    position:relative;
+    width:150px;
+}
+
+.radio-container label {
+padding:5px;
+}
